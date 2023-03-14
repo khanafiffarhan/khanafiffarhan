@@ -8,7 +8,7 @@
 - 💬 Ask me about **react js, next js, javascript,node js, mongoDB.**
 
 - 📫 How to reach me **khanafiffarhan@gmail.com**
-- My Portfolio www.khanafiffarhan.github.io
+- My Portfolio [www.khanafiffarhan.github.io](https://khanafiffarhan.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
