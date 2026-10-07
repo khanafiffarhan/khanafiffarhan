@@ -1,4 +1,4 @@
-![Farhan Khan - Web Developer](./Farhan Khan Developer Tech Banner.png)
+![Farhan Khan - Web Developer](./banner.png)
 <h1 align="center">Hi 👋, I'm Khan Afif Farhan</h1>
 <h3 align="center">A Full stack developer</h3>
 
